@@ -1,7 +1,7 @@
 # Copyright (c) 2020 Pete Johanson
 # SPDX-License-Identifier: MIT
 
-config SHIEL_CORNE_DMG_GPIO_LEFT
+config SHIELD_CORNE_DMG_GPIO_LEFT
     def_bool $(shields_list_contains,corne_dmg_gpio_left)
 
 config SHIELD_CORNE_DMG_GPIO_RIGHT
